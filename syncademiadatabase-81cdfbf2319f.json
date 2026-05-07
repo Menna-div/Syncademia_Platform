@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "syncademiadatabase",
+  "private_key_id": "81cdfbf2319f420bc0349ccf0e3a2208f8a31635",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClToHYQH6GXfyC\nxMObQCyZ3nDbk4JaHdDeq0X8H0D5WB+rwQ1uwv3t6ff4x4adeI2UcCx2q7wzNCUL\nHpP3PZA63lhXIL5BNXY3C9cPKNLFfLbLX0mJj92u3nGJHZjCEyKqbIiv3AzvF7Yp\ni9Zwma714KVJaQ6jcUiidro6D+Wbkp/DUUfAxw1aDn+fvVa7GTwI6BrMms1vIFHa\n+rg5eLi2Bdnvr9U5uaQQjSMTTYCz2q2jOYoLsq7saIAqjod66+RgTk8yViY3xwmv\nMtKBDr2P7QL7GLOATYgnDE5SQf2lpriM7/mm/DSisYn35u4sfcDecLC+od3cEuWW\nyy+KWLArAgMBAAECggEAIP2vlVCdz8Q/KnwJi9j9bcICpRfl6oVL07y77WrxZTIM\ntBMF0sawtgQ9XJW5jIDsRKU0goSYvWFZSURThILxX4ZTfCQJRGteifLfe2OK2SYg\nNytvujgPpqA3aYWSIJ2ADCI4D1zr6eXCEb2aUQOi8uhgJGwGo2Du/ZmTZhYZHXiO\nNDKe3sU9hU4mnofi82rQagbVBLyEQBm+zjOasv+rJ6Rum1mazCAnLsp1TRhLvB8/\n7/H3xX5r8sHqYlCYQBzf2jy+X4rMzwEYpa2BQqlfkZ/75sFXYSYbHPxv/2mNGadZ\nWlcFuBtQ+1fFx070y4QbPbQwUnpYBLZ/TmyWzc0noQKBgQDOhy+jeSNKFFDgFfmK\nPgXyYA42aY+bGOG5PM+kqyS3qenMq8wm+AVExh7OuVQP1XdsHjD5HfYw41KBwdZa\nudIX9x7CGLnYpxTr9aMwiwIN718ic0BAhdlo/ufiPdMl6tNkwxBD27UxhwhefkJJ\n9vg2oEOdZRyAnzTYt14oyFrkiwKBgQDM54W+mOwvf5CMh5KVdEg0ocVUiWBCbFyV\nT6ULifnPe72C3xsZAE28uMJQVAg9uiE3fqKUKy5E4USh7wly5gMk0/ZWmDFrfFyX\nMmjAvF3PXTuw72ZChsoeX0H8p+bhnCV7tAYDOIVv8D5om8/0H+VVSHj/S1ZcU5dD\n+yIKDFG24QKBgHrsbYdQD5gE9YoaqjcE6Yc0cuEh/U5kBd25+yDYmHcUk8q1KkK7\ndm9TuHx0RDtUY8sfQSjVE3ZPpwkCNTI0zX5kIJOIIf14nPRAdMvswOFIawhXLpP4\n1skuhxfaknVMClw72c950qPS6kFLxuq9K0lgJD5nMwq/N7YRleKSNb83AoGBAJUx\nRjp+0gnLkg4gcGSNpD1eRHXHCOWUTN0SfpOmRNQDvvrZQ7uycuekhydB6DY5nhHw\nDKRhxHC2rOhTScf1HfjktIpcii8+/5O/SnJ7NLrVoa60wPpTdjsjFMLH5d4DeW9W\npsIVl2LnxCkauhGAX9T2zdLkod7bploDMseqLJ1BAoGAc/uI20frK/F6NqaKOh5/\nkA90casTgCVCZKPUDz2F+CTfE6FVA73bdK/yrbKdB90IvzWt+QPx7IzGKFXi+9Mz\nyUj+58vfbJgFhWW4IO9Rlzl/nlF9Y5Vggv9hhGdZlmL0Fk2WPzsb/j6agLqQ5Xjf\nlisU0vs15AKEpciLzBC9DtA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "database@syncademiadatabase.iam.gserviceaccount.com",
+  "client_id": "108628056931953631905",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/database%40syncademiadatabase.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

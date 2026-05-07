@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AddAssigment_UI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AddGrades_UI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1_FP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_MentorSU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_StudentHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2_FP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2_MentorSU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GenerateQR_UI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoadingOverlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MentorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mentorpage_UI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NetworkErrorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchStudent_UI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SignUp_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SYNCADEMIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Uc_Assignment_StudentHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Uc_Grading.Designer_StudentHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Uc_Grading_StudentHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Uc_Profile_StudentHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Uc_ScanQR_StudentHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Uc_Subject_StudentHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VerifySignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
